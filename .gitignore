@@ -1,3 +1,5 @@
+-folder
 env
 
+-file
 db.sqlite3
